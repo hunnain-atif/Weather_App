@@ -1,6 +1,6 @@
 # Weather_App
 
-##General Information
+## General Information
 This is a simple weather application for iOS. Users can find the weather of their current location or any location that they search. 
 They are then provided with the weather in celsius, the conditions (i.e. sunny, raining, snowing etc.) as well as a corresponding icon.
 This app also uses UI components that are compatiable and change with the new iOS dark mode settings.
